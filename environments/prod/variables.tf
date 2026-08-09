@@ -1,0 +1,12 @@
+variable "resource_groups" {}
+variable "virtual_networks" {}
+variable "subnets" {}
+variable "public_ips" {}
+variable "nics" {}
+variable "vms" {}
+variable "bastions" {}
+variable "nsgs" {}
+variable "load_balancers" {}
+variable "storage_accounts" {}
+variable "key_vaults" {}
+variable "application_gateways" {}
